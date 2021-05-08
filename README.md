@@ -1,24 +1,14 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Leandro Lima 👨‍💻
+### Hi there! 😁 
 
-Welcome to my Github. 
+My name is Leandro Lima. I'm a Backend Developer in [B2W](https://www.b2wmarketplace.com.br/v3/home). I've been working as Backend Developer since 2017. I love to learn!
 
-## ⚡ Tech Stack
+Would you like to find me?
 
-Here are a few things I've picked up along my learning journey.
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/le_limasilva)](https://twitter.com/le_limasilva)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llimasilva/)](https://www.linkedin.com/in/llimasilva/)
 
-* PHP | Javascript | Python | Dart
-* Laravel | Express | Flutter
-* Docker 
-* VueJs
-* Bootstrap
-* jQuery
-* 🛢️ MySQL
-* :octocat: Git | Github
-* 🌐 HTML | CSS
-* ☁ AWS
+____
 
-## 📫 Get in touch
-- [![Linkedin: leandrolima](https://img.shields.io/badge/-LeandroLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llimasilva/)](https://www.linkedin.com/in/llimasilva/)
-- [Email](mailto:llimas@outlook.com)
 
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=LeandroLS&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/LeandroLS"/>
+[![Leandro's github stats](https://github-readme-stats.vercel.app/api?username=LeandroLS&theme=dark&show_icons=true&count_private=true)](https://github.com/LeandroLS)
+
