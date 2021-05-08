@@ -1,11 +1,17 @@
 ### Hi there! 😁 
 
-My name is Leandro Lima. I'm a Backend Developer in [B2W](https://www.b2wmarketplace.com.br/v3/home). I've been working as Backend Developer since 2017. I love to learn!
+My name is Leandro Lima. I'm a Backend Developer in [B2W](https://www.b2wmarketplace.com.br/v3/home).  
+
+I'm working mostly with Laravel, VueJS and Node.js. 
+
+I've been working as Backend Developer since 2017. 
+
+I love to learn!  
 
 Would you like to find me?
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/le_limasilva)](https://twitter.com/le_limasilva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llimasilva/)](https://www.linkedin.com/in/llimasilva/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/le_limasilva)](https://twitter.com/le_limasilva)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llimasilva/)](https://www.linkedin.com/in/llimasilva/)  
 📧 You can also send me an [email](mailto:llimas@outlook.com)
 ____
 
