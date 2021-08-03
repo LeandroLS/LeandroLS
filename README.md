@@ -1,6 +1,6 @@
 ### Hi there! 😁 
 
-My name is Leandro Lima. I'm a Backend Developer in [B2W](https://www.b2wmarketplace.com.br/v3/home).  
+My name is Leandro Lima. I'm a developer at [Pagar.me](https://pagar.me/).  
 
 I'm working mostly with Laravel, VueJS and Node.js. 
 
