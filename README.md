@@ -9,10 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
-
-{{- range recentRepos 3 }}
-- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
-{{- end }}
+- [LeandroLS/alura-git](https://github.com/LeandroLS/alura-git) - Curso de git Alura
+- [LeandroLS/unit-testing-with-jest](https://github.com/LeandroLS/unit-testing-with-jest) - Just to practice unit testing
+- [LeandroLS/alura-ci-deploy-gcloud-node](https://github.com/LeandroLS/alura-ci-deploy-gcloud-node)
 
 Would you like to find me?
 
