@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) - The Go programing Language book exercises :D
 - [LeandroLS/kafka-course](https://github.com/LeandroLS/kafka-course) - Praticando Kafka
 - [LeandroLS/alura-git](https://github.com/LeandroLS/alura-git) - Curso de git Alura
-- [LeandroLS/unit-testing-with-jest](https://github.com/LeandroLS/unit-testing-with-jest) - Just to practice unit testing
 
 Would you like to find me?
 
