@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
-- [LeandroLS/clissuer](https://github.com/LeandroLS/clissuer)
-- [LeandroLS/swircher](https://github.com/LeandroLS/swircher)
+- [LeandroLS/climdb](https://github.com/LeandroLS/climdb) - CLI tool to download posters from https://www.omdbapi.com/
 - [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) - The Go programing Language book exercises :D
+- [LeandroLS/unit-testing-with-jest](https://github.com/LeandroLS/unit-testing-with-jest) - Just to practice unit testing
 
 Would you like to find me?
 
