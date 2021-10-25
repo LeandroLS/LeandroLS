@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/scliper](https://github.com/LeandroLS/scliper)
 - [LeandroLS/climdb](https://github.com/LeandroLS/climdb) - CLI tool to download posters from https://www.omdbapi.com/
 - [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) - The Go programing Language book exercises :D
-- [LeandroLS/cardapio-publico](https://github.com/LeandroLS/cardapio-publico) - Site onde restaurantes podem cadastrar seus cardápios e fornece-los via QR Code
 
 Would you like to find me?
 
