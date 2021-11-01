@@ -9,7 +9,7 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
-- [LeandroLS/scliper](https://github.com/LeandroLS/scliper)
+- [LeandroLS/scliper](https://github.com/LeandroLS/scliper) - CLI Tool to make simple web scraping.
 - [LeandroLS/climdb](https://github.com/LeandroLS/climdb) - CLI tool to download posters from https://www.omdbapi.com/
 - [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) - The Go programing Language book exercises :D
 
