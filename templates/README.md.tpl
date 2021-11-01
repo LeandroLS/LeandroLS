@@ -19,7 +19,7 @@ I love to learn!
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 🔨 Latest Pull Requests I published
+#### :interrobang: Recent Issues I created
 {{range recentIssues 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
