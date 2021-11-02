@@ -15,9 +15,9 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Removendo link de repositório inativo](https://github.com/camilatigre/listamaravilhosaopensource/pull/153) on [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource) (today)
+- [Removendo dois links inativos](https://github.com/caiovictormc/go-awesome-ptbr/pull/4) on [caiovictormc/go-awesome-ptbr](https://github.com/caiovictormc/go-awesome-ptbr) (today)
+- [Removendo link de repositório inativo](https://github.com/camilatigre/listamaravilhosaopensource/pull/153) on [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource) (1 day ago)
 - [Removendo https://gopherpods.appspot.com/, link não funciona mais](https://github.com/geiltonxavier/aprenda-go/pull/20) on [geiltonxavier/aprenda-go](https://github.com/geiltonxavier/aprenda-go) (2 weeks ago)
-- [Adicionando novo Gopher](https://github.com/geiltonxavier/aprenda-go/pull/19) on [geiltonxavier/aprenda-go](https://github.com/geiltonxavier/aprenda-go) (2 weeks ago)
 
 Would you like to find me?
 
