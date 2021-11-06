@@ -9,15 +9,15 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/hello-world-docker-action](https://github.com/LeandroLS/hello-world-docker-action)
 - [LeandroLS/scliper](https://github.com/LeandroLS/scliper) - CLI Tool to make simple web scraping.
 - [LeandroLS/climdb](https://github.com/LeandroLS/climdb) - CLI tool to download posters from https://www.omdbapi.com/
-- [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) - The Go programing Language book exercises :D
 
 #### 🔨 Latest Pull Requests I published
 
+- [Delete not working link](https://github.com/chiraggude/awesome-laravel/pull/602) on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) (today)
 - [Removendo dois links inativos](https://github.com/caiovictormc/go-awesome-ptbr/pull/4) on [caiovictormc/go-awesome-ptbr](https://github.com/caiovictormc/go-awesome-ptbr) (4 days ago)
 - [Removendo link de repositório inativo](https://github.com/camilatigre/listamaravilhosaopensource/pull/153) on [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource) (5 days ago)
-- [Removendo https://gopherpods.appspot.com/, link não funciona mais](https://github.com/geiltonxavier/aprenda-go/pull/20) on [geiltonxavier/aprenda-go](https://github.com/geiltonxavier/aprenda-go) (3 weeks ago)
 
 Would you like to find me?
 
