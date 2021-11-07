@@ -15,9 +15,9 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Delete not working link](https://github.com/chiraggude/awesome-laravel/pull/602) on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) (today)
-- [Removendo dois links inativos](https://github.com/caiovictormc/go-awesome-ptbr/pull/4) on [caiovictormc/go-awesome-ptbr](https://github.com/caiovictormc/go-awesome-ptbr) (4 days ago)
-- [Removendo link de repositório inativo](https://github.com/camilatigre/listamaravilhosaopensource/pull/153) on [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource) (5 days ago)
+- [Delete not working link](https://github.com/chiraggude/awesome-laravel/pull/602) on [chiraggude/awesome-laravel](https://github.com/chiraggude/awesome-laravel) (1 day ago)
+- [Removendo dois links inativos](https://github.com/caiovictormc/go-awesome-ptbr/pull/4) on [caiovictormc/go-awesome-ptbr](https://github.com/caiovictormc/go-awesome-ptbr) (5 days ago)
+- [Removendo link de repositório inativo](https://github.com/camilatigre/listamaravilhosaopensource/pull/153) on [camilatigre/listamaravilhosaopensource](https://github.com/camilatigre/listamaravilhosaopensource) (6 days ago)
 
 Would you like to find me?
 
