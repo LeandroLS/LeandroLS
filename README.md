@@ -15,9 +15,9 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add a Hello World action](https://github.com/LeandroLS/write-docker-actions/pull/4) on [LeandroLS/write-docker-actions](https://github.com/LeandroLS/write-docker-actions) (today)
-- [Create my first workflow](https://github.com/LeandroLS/write-docker-actions/pull/2) on [LeandroLS/write-docker-actions](https://github.com/LeandroLS/write-docker-actions) (1 day ago)
-- [Create Dockerfile](https://github.com/LeandroLS/hello-github-actions/pull/2) on [LeandroLS/hello-github-actions](https://github.com/LeandroLS/hello-github-actions) (1 day ago)
+- [Add a Hello World action](https://github.com/LeandroLS/write-docker-actions/pull/4) on [LeandroLS/write-docker-actions](https://github.com/LeandroLS/write-docker-actions) (1 day ago)
+- [Create my first workflow](https://github.com/LeandroLS/write-docker-actions/pull/2) on [LeandroLS/write-docker-actions](https://github.com/LeandroLS/write-docker-actions) (2 days ago)
+- [Create Dockerfile](https://github.com/LeandroLS/hello-github-actions/pull/2) on [LeandroLS/hello-github-actions](https://github.com/LeandroLS/hello-github-actions) (2 days ago)
 
 Would you like to find me?
 
