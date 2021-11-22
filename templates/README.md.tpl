@@ -16,7 +16,7 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 {{range recentPullRequests 3}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
 #### :construction_worker: My Latest Contributions
