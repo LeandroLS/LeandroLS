@@ -19,11 +19,6 @@ I love to learn!
 - [Create my first workflow](https://github.com/LeandroLS-archived/write-docker-actions/pull/2) on [LeandroLS-archived/write-docker-actions](https://github.com/LeandroLS-archived/write-docker-actions) (2 weeks ago)
 - [Create Dockerfile](https://github.com/LeandroLS-archived/linksnitch/pull/2) on [LeandroLS-archived/linksnitch](https://github.com/LeandroLS-archived/linksnitch) (2 weeks ago)
 
-#### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 Would you like to find me?
 
 - [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/le_limasilva)](https://twitter.com/le_limasilva)  
