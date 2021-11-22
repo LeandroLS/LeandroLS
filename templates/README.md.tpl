@@ -19,8 +19,6 @@ I love to learn!
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### :zap: Recent Activity
-//test
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
