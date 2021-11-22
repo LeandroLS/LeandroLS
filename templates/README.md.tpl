@@ -19,12 +19,9 @@ I love to learn!
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### :construction_worker:  My Latest Contributions
-{{range recentContributions 5}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
+#### :construction_worker: My Latest Contributions
+{{range recentContributions 3}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{end}}
 
 Would you like to find me?
