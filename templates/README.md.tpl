@@ -16,12 +16,12 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 {{range recentPullRequests 3}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 #### :construction_worker: My Latest Contributions
 {{range recentContributions 3}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
 Would you like to find me?
