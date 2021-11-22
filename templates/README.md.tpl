@@ -22,7 +22,7 @@ I love to learn!
 #### :construction_worker: My Latest Contributions
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{end}}
+{{- end}}
 
 Would you like to find me?
 
