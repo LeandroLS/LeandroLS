@@ -15,13 +15,13 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add a Hello World action](https://github.com/LeandroLS-archived/write-docker-actions/pull/4) on [LeandroLS-archived/write-docker-actions](https://github.com/LeandroLS-archived/write-docker-actions) (1 week ago)
+- [Add a Hello World action](https://github.com/LeandroLS-archived/write-docker-actions/pull/4) on [LeandroLS-archived/write-docker-actions](https://github.com/LeandroLS-archived/write-docker-actions) (2 weeks ago)
 - [Create my first workflow](https://github.com/LeandroLS-archived/write-docker-actions/pull/2) on [LeandroLS-archived/write-docker-actions](https://github.com/LeandroLS-archived/write-docker-actions) (2 weeks ago)
 - [Create Dockerfile](https://github.com/LeandroLS-archived/linksnitch/pull/2) on [LeandroLS-archived/linksnitch](https://github.com/LeandroLS-archived/linksnitch) (2 weeks ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 day ago)
+- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (2 days ago)
 - [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) (1 week ago)
 - [LeandroLS-archived/linksnitch](https://github.com/LeandroLS-archived/linksnitch) (1 week ago)
 
