@@ -21,8 +21,8 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (today)
-- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (2 days ago)
+- [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (1 day ago)
+- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 day ago)
 - [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) (1 week ago)
 
 Would you like to find me?
