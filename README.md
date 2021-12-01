@@ -15,14 +15,14 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (2 days ago)
-- [better bad links found log message](https://github.com/LeandroLS/linksnitch/pull/2) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (4 days ago)
-- [using valoop](https://github.com/LeandroLS/linksnitch/pull/1) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (6 days ago)
+- [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (today)
+- [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (3 days ago)
+- [better bad links found log message](https://github.com/LeandroLS/linksnitch/pull/2) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (5 days ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (2 days ago)
-- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (4 days ago)
+- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 day ago)
+- [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (3 days ago)
 - [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) (2 weeks ago)
 
 Would you like to find me?
