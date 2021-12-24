@@ -17,7 +17,7 @@ I love to learn!
 
 - [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (3 weeks ago)
 - [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (3 weeks ago)
-- [better bad links found log message](https://github.com/LeandroLS/linksnitch/pull/2) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (3 weeks ago)
+- [better bad links found log message](https://github.com/LeandroLS/linksnitch/pull/2) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (4 weeks ago)
 
 #### :construction_worker: My Latest Contributions
 
