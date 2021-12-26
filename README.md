@@ -16,14 +16,14 @@ I love to learn!
 #### 🔨 Latest Pull Requests I published
 
 - [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (3 weeks ago)
-- [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (3 weeks ago)
-- [better bad links found log message](https://github.com/LeandroLS/linksnitch/pull/2) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (4 weeks ago)
+- [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (4 weeks ago)
+- [better bad links found log message](https://github.com/LeandroLS/linksnitch/pull/2) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 month ago)
 
 #### :construction_worker: My Latest Contributions
 
 - [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) (3 weeks ago)
 - [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (3 weeks ago)
-- [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (3 weeks ago)
+- [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (4 weeks ago)
 
 Would you like to find me?
 
