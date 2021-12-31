@@ -15,7 +15,7 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (4 weeks ago)
+- [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 month ago)
 - [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (1 month ago)
 - [better bad links found log message](https://github.com/LeandroLS/linksnitch/pull/2) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 month ago)
 
