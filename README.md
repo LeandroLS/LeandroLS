@@ -21,8 +21,8 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/CodigoLimpoAnotacoes](https://github.com/LeandroLS/CodigoLimpoAnotacoes) (today)
-- [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) (4 weeks ago)
+- [LeandroLS/CodigoLimpoAnotacoes](https://github.com/LeandroLS/CodigoLimpoAnotacoes) (1 day ago)
+- [LeandroLS/the-go-programing-exercises](https://github.com/LeandroLS/the-go-programing-exercises) (1 month ago)
 - [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 month ago)
 
 Would you like to find me?
