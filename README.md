@@ -15,9 +15,9 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (today)
 - [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 month ago)
 - [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (1 month ago)
-- [better bad links found log message](https://github.com/LeandroLS/linksnitch/pull/2) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 month ago)
 
 #### :construction_worker: My Latest Contributions
 
