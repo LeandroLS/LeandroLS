@@ -21,7 +21,7 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization) (1 day ago)
+- [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization) (today)
 - [oakmound/oak](https://github.com/oakmound/oak) (2 days ago)
 - [LeandroLS/CodigoLimpoAnotacoes](https://github.com/LeandroLS/CodigoLimpoAnotacoes) (5 days ago)
 
