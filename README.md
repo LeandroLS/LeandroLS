@@ -15,14 +15,14 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (6 days ago)
+- [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (1 week ago)
 - [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 month ago)
 - [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (1 month ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization) (3 days ago)
-- [oakmound/oak](https://github.com/oakmound/oak) (6 days ago)
+- [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization) (4 days ago)
+- [oakmound/oak](https://github.com/oakmound/oak) (1 week ago)
 - [LeandroLS/CodigoLimpoAnotacoes](https://github.com/LeandroLS/CodigoLimpoAnotacoes) (1 week ago)
 
 Would you like to find me?
