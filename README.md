@@ -17,12 +17,12 @@ I love to learn!
 
 - [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (3 weeks ago)
 - [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 month ago)
-- [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (1 month ago)
+- [adding tests](https://github.com/LeandroLS/valoop/pull/1) on [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (2 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (2 days ago)
-- [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization) (2 weeks ago)
+- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (3 days ago)
+- [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization) (3 weeks ago)
 - [oakmound/oak](https://github.com/oakmound/oak) (3 weeks ago)
 
 Would you like to find me?
