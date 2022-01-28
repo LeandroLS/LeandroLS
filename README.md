@@ -21,7 +21,7 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (3 days ago)
+- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (4 days ago)
 - [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization) (3 weeks ago)
 - [oakmound/oak](https://github.com/oakmound/oak) (3 weeks ago)
 
