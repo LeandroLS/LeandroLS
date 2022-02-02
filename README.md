@@ -21,9 +21,9 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (today)
 - [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (4 days ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (4 days ago)
-- [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization) (3 weeks ago)
 
 Would you like to find me?
 
