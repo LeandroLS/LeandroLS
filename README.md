@@ -15,15 +15,15 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Adding Brazilian Portuguese translation](https://github.com/MetaMask/metamask-extension/pull/13470) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (6 days ago)
+- [Adding Brazilian Portuguese translation](https://github.com/MetaMask/metamask-extension/pull/13470) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
 - [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (1 month ago)
 - [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (2 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 days ago)
-- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (6 days ago)
-- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (6 days ago)
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (3 days ago)
+- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 week ago)
+- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 week ago)
 
 Would you like to find me?
 
