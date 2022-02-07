@@ -21,8 +21,8 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (today)
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (4 days ago)
+- [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (1 day ago)
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (5 days ago)
 - [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 week ago)
 
 Would you like to find me?
