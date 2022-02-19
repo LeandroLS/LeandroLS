@@ -15,7 +15,7 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Adding Brazilian Portuguese translation](https://github.com/MetaMask/metamask-extension/pull/13470) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 weeks ago)
+- [Adding Brazilian Portuguese translation](https://github.com/MetaMask/metamask-extension/pull/13470) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (3 weeks ago)
 - [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (1 month ago)
 - [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (2 months ago)
 
@@ -23,7 +23,7 @@ I love to learn!
 
 - [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (1 week ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 weeks ago)
-- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (2 weeks ago)
+- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (3 weeks ago)
 
 Would you like to find me?
 
