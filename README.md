@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image)
 - [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime)
 - [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization)
-- [LeandroLS/valoop](https://github.com/LeandroLS/valoop) - Collection of useful functions to check values
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,9 +21,9 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (today)
-- [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (1 week ago)
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 weeks ago)
+- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 day ago)
+- [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (1 day ago)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (1 day ago)
 
 Would you like to find me?
 
