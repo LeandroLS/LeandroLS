@@ -21,9 +21,9 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS-archived/go-ascii-image](https://github.com/LeandroLS-archived/go-ascii-image) (3 days ago)
-- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (3 days ago)
-- [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (4 days ago)
+- [LeandroLS-archived/go-ascii-image](https://github.com/LeandroLS-archived/go-ascii-image) (4 days ago)
+- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (4 days ago)
+- [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (5 days ago)
 
 Would you like to find me?
 
