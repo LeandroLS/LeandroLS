@@ -21,9 +21,9 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (5 days ago)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (1 day ago)
 - [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (5 days ago)
-- [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (6 days ago)
+- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (6 days ago)
 
 Would you like to find me?
 
