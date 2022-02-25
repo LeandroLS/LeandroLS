@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image)
 - [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime)
 - [LeandroLS/go-algorithm-visualization](https://github.com/LeandroLS/go-algorithm-visualization)
-- [LeandroLS/valoop](https://github.com/LeandroLS/valoop) - Collection of useful functions to check values
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,9 +21,9 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS-archived/go-ascii-image](https://github.com/LeandroLS-archived/go-ascii-image) (4 days ago)
-- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (4 days ago)
-- [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (5 days ago)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (5 days ago)
+- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (5 days ago)
+- [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) (6 days ago)
 
 Would you like to find me?
 
