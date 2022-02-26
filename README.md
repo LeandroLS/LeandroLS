@@ -15,15 +15,15 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Adding Brazilian Portuguese translation](https://github.com/MetaMask/metamask-extension/pull/13470) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (3 weeks ago)
+- [Update README.md](https://github.com/codeedu/wsl2-docker-quickstart/pull/19) on [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (1 day ago)
+- [Adding Brazilian Portuguese translation](https://github.com/MetaMask/metamask-extension/pull/13470) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (4 weeks ago)
 - [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (1 month ago)
-- [Better if statments](https://github.com/LeandroLS/linksnitch/pull/3) on [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (2 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (1 day ago)
-- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (5 days ago)
-- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (6 days ago)
+- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (1 day ago)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (2 days ago)
+- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (6 days ago)
 
 Would you like to find me?
 
