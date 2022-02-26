@@ -21,8 +21,8 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (today)
 - [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (1 day ago)
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (2 days ago)
 - [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (6 days ago)
 
 Would you like to find me?
