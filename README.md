@@ -15,15 +15,15 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/codeedu/wsl2-docker-quickstart/pull/19) on [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (1 day ago)
+- [Update README.md](https://github.com/codeedu/wsl2-docker-quickstart/pull/19) on [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (2 days ago)
 - [Adding Brazilian Portuguese translation](https://github.com/MetaMask/metamask-extension/pull/13470) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (4 weeks ago)
 - [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (1 month ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (today)
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (today)
-- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (1 day ago)
+- [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (1 day ago)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (1 day ago)
+- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (2 days ago)
 
 Would you like to find me?
 
