@@ -10,7 +10,7 @@ I love to learn!
 
 #### 👨‍💻 Repositories I created recently
 - [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) - A CLI to filter your Docker logs.
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) - A CLI tool to make ASCII Art :D
 - [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime)
 
 #### 🔨 Latest Pull Requests I published
