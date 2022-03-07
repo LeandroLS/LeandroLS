@@ -21,8 +21,8 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (today)
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (today)
+- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 day ago)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (1 day ago)
 - [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (1 week ago)
 
 Would you like to find me?
