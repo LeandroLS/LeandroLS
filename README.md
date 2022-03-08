@@ -2,7 +2,7 @@
 
 My name is Leandro Lima. I'm a developer at [Pagar.me](https://pagar.me/).  
 
-I'm working mostly with Node.js. 
+I'm working mostly with Laravel, VueJS and Node.js. 
 
 I've been working as Backend Developer since 2017. 
 
@@ -21,8 +21,8 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 day ago)
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (1 day ago)
+- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 days ago)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (2 days ago)
 - [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (1 week ago)
 
 Would you like to find me?
