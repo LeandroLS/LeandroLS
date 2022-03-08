@@ -2,7 +2,7 @@
 
 My name is Leandro Lima. I'm a developer at [Pagar.me](https://pagar.me/).  
 
-I'm working mostly with Laravel, VueJS and Node.js. 
+I'm working mostly with Node.js. 
 
 I've been working as Backend Developer since 2017. 
 
