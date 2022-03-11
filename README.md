@@ -15,14 +15,14 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/codeedu/wsl2-docker-quickstart/pull/19) on [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (1 week ago)
+- [Update README.md](https://github.com/codeedu/wsl2-docker-quickstart/pull/19) on [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (2 weeks ago)
 - [Adding Brazilian Portuguese translation](https://github.com/MetaMask/metamask-extension/pull/13470) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 month ago)
 - [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (2 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (4 days ago)
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (4 days ago)
+- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (5 days ago)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (5 days ago)
 - [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (1 week ago)
 
 Would you like to find me?
