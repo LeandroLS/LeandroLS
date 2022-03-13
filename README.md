@@ -9,19 +9,19 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) - A CLI to filter your Docker logs.
+- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) - A webpage that shows you your container logs.
 - [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) - A CLI tool to make ASCII Art :D
 - [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) - A command line tool to get Unix time based on the informed date.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Webpage](https://github.com/LeandroLS/dlogstail/pull/1) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (today)
 - [Update README.md](https://github.com/codeedu/wsl2-docker-quickstart/pull/19) on [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) (2 weeks ago)
 - [Adding Brazilian Portuguese translation](https://github.com/MetaMask/metamask-extension/pull/13470) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 month ago)
-- [Update README.md](https://github.com/oakmound/oak/pull/180) on [oakmound/oak](https://github.com/oakmound/oak) (2 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
+- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (today)
 - [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (1 week ago)
 - [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (2 weeks ago)
 
