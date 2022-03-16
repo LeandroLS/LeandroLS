@@ -9,7 +9,7 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) - A webpage that shows you your container logs.
+- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) - A webpage that shows you the Docker container logs
 - [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) - A CLI tool to make ASCII Art :D
 - [LeandroLS/clunixtime](https://github.com/LeandroLS/clunixtime) - A command line tool to get Unix time based on the informed date.
 
