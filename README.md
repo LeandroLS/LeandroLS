@@ -15,15 +15,15 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 days ago)
-- [Webpage](https://github.com/LeandroLS/dlogstail/pull/2) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 days ago)
-- [Webpage](https://github.com/LeandroLS/dlogstail/pull/1) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (5 days ago)
+- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (3 days ago)
+- [Webpage](https://github.com/LeandroLS/dlogstail/pull/2) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (3 days ago)
+- [Webpage](https://github.com/LeandroLS/dlogstail/pull/1) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (6 days ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 day ago)
+- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 days ago)
 - [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (1 week ago)
-- [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (2 weeks ago)
+- [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (3 weeks ago)
 
 Would you like to find me?
 
