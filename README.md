@@ -21,7 +21,7 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (6 days ago)
+- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
 - [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (2 weeks ago)
 - [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (3 weeks ago)
 
