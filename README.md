@@ -17,12 +17,12 @@ I love to learn!
 
 - [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
 - [Webpage](https://github.com/LeandroLS/dlogstail/pull/2) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
-- [Webpage](https://github.com/LeandroLS/dlogstail/pull/1) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
+- [Webpage](https://github.com/LeandroLS/dlogstail/pull/1) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 weeks ago)
 
 #### :construction_worker: My Latest Contributions
 
 - [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (2 weeks ago)
+- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (3 weeks ago)
 - [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (4 weeks ago)
 
 Would you like to find me?
