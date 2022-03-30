@@ -15,8 +15,8 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
-- [Webpage](https://github.com/LeandroLS/dlogstail/pull/2) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
+- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 weeks ago)
+- [Webpage](https://github.com/LeandroLS/dlogstail/pull/2) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 weeks ago)
 - [Webpage](https://github.com/LeandroLS/dlogstail/pull/1) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 weeks ago)
 
 #### :construction_worker: My Latest Contributions
