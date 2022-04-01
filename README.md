@@ -15,9 +15,9 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (today)
 - [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 weeks ago)
 - [Webpage](https://github.com/LeandroLS/dlogstail/pull/2) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 weeks ago)
-- [Webpage](https://github.com/LeandroLS/dlogstail/pull/1) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 weeks ago)
 
 #### :construction_worker: My Latest Contributions
 
