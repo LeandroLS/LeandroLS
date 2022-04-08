@@ -15,13 +15,13 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (6 days ago)
+- [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (1 week ago)
 - [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (3 weeks ago)
 - [Webpage](https://github.com/LeandroLS/dlogstail/pull/2) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (3 weeks ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 days ago)
+- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (3 days ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 week ago)
 - [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) (1 month ago)
 
