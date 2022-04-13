@@ -15,13 +15,13 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (today)
+- [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (1 day ago)
 - [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (1 week ago)
-- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (3 weeks ago)
+- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (4 weeks ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (today)
+- [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (1 day ago)
 - [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 week ago)
 
