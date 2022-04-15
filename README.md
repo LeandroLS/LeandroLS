@@ -15,14 +15,14 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (2 days ago)
-- [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (1 week ago)
-- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (4 weeks ago)
+- [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (3 days ago)
+- [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (2 weeks ago)
+- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 month ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [PauloGoncalvesBH/treinamento-git](https://github.com/PauloGoncalvesBH/treinamento-git) (1 day ago)
-- [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (2 days ago)
+- [PauloGoncalvesBH/treinamento-git](https://github.com/PauloGoncalvesBH/treinamento-git) (2 days ago)
+- [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (3 days ago)
 - [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 week ago)
 
 Would you like to find me?
