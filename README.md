@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) - Custom script to install software in MS Windows 10&#43;
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) - Custom script to remove software in MS Windows
 - [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) - A webpage that shows you the Docker container logs
-- [LeandroLS/go-ascii-image](https://github.com/LeandroLS/go-ascii-image) - A CLI tool to make ASCII Art :D
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,9 +21,9 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (today)
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) (today)
 - [PauloGoncalvesBH/treinamento-git](https://github.com/PauloGoncalvesBH/treinamento-git) (3 days ago)
-- [LeandroLS/LeandroLS.github.io](https://github.com/LeandroLS/LeandroLS.github.io) (4 days ago)
 
 Would you like to find me?
 
