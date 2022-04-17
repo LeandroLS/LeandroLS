@@ -21,8 +21,8 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (today)
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) (1 day ago)
-- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (1 day ago)
 - [PauloGoncalvesBH/treinamento-git](https://github.com/PauloGoncalvesBH/treinamento-git) (4 days ago)
 
 Would you like to find me?
