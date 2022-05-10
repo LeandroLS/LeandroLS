@@ -15,13 +15,13 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (3 weeks ago)
+- [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (4 weeks ago)
 - [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (1 month ago)
 - [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 month ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (2 weeks ago)
+- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (3 weeks ago)
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) (3 weeks ago)
 - [PauloGoncalvesBH/treinamento-git](https://github.com/PauloGoncalvesBH/treinamento-git) (3 weeks ago)
 
