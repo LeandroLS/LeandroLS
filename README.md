@@ -23,7 +23,7 @@ I love to learn!
 
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (3 weeks ago)
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) (3 weeks ago)
-- [PauloGoncalvesBH/treinamento-git](https://github.com/PauloGoncalvesBH/treinamento-git) (4 weeks ago)
+- [PauloGoncalvesBH/treinamento-git](https://github.com/PauloGoncalvesBH/treinamento-git) (1 month ago)
 
 Would you like to find me?
 
