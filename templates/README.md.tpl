@@ -23,7 +23,3 @@ I love to learn!
 {{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
-
-Would you like to find me?
-
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/llimasilva/)](https://www.linkedin.com/in/llimasilva/)  
