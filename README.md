@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms)
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) - Custom script to install software in MS Windows 10&#43;
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) - Custom script to remove software in MS Windows
-- [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) - A webpage that shows you the Docker container logs
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) (today)
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (1 month ago)
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) (1 month ago)
-- [PauloGoncalvesBH/treinamento-git](https://github.com/PauloGoncalvesBH/treinamento-git) (1 month ago)
