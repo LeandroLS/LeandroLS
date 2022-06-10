@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) (today)
+- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) (1 day ago)
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (1 month ago)
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) (1 month ago)
