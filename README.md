@@ -17,10 +17,10 @@ I love to learn!
 
 - [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (2 months ago)
 - [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (2 months ago)
-- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (2 months ago)
+- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (3 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) (1 day ago)
+- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) (2 days ago)
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (1 month ago)
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) (1 month ago)
