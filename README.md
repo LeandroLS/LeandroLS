@@ -9,7 +9,7 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
-- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms)
+- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) - Some algorithms write in Go
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) - Custom script to install software in MS Windows 10&#43;
 - [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) - Custom script to remove software in MS Windows
 
