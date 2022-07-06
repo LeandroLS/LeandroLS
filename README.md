@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (today)
-- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) (6 days ago)
+- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 day ago)
+- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) (1 week ago)
 - [LeandroLS/valoop](https://github.com/LeandroLS/valoop) (1 week ago)
