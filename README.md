@@ -15,9 +15,9 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
+- [Refactor Food.js to Food.ts](https://github.com/LeandroLS/SnakeGame/pull/2) on [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (today)
 - [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (2 months ago)
 - [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (3 months ago)
-- [Number of lines](https://github.com/LeandroLS/dlogstail/pull/3) on [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (3 months ago)
 
 #### :construction_worker: My Latest Contributions
 
