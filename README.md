@@ -15,12 +15,12 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Refactor to use TypeScript](https://github.com/LeandroLS/SnakeGame/pull/2) on [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (6 days ago)
+- [Refactor to use TypeScript](https://github.com/LeandroLS/SnakeGame/pull/2) on [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (1 week ago)
 - [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (3 months ago)
 - [Update README.md](https://github.com/herickmotta/herickmotta/pull/1) on [herickmotta/herickmotta](https://github.com/herickmotta/herickmotta) (3 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (6 days ago)
+- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (1 week ago)
 - [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 week ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 week ago)
