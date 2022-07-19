@@ -23,4 +23,4 @@ I love to learn!
 
 - [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (1 week ago)
 - [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 week ago)
-- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 week ago)
+- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (2 weeks ago)
