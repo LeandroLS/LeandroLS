@@ -22,5 +22,5 @@ I love to learn!
 #### :construction_worker: My Latest Contributions
 
 - [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (1 week ago)
-- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (1 week ago)
+- [LeandroLS/linksnitch](https://github.com/LeandroLS/linksnitch) (2 weeks ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (2 weeks ago)
