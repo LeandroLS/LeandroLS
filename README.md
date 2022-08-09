@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/cardapio-publico](https://github.com/LeandroLS/cardapio-publico) (1 week ago)
+- [LeandroLS/cardapio-publico](https://github.com/LeandroLS/cardapio-publico) (2 weeks ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (2 weeks ago)
 - [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (1 month ago)
