@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/nuxt-site-example](https://github.com/LeandroLS/nuxt-site-example) - testando nuxt
 - [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) - Some algorithms write in Go
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) - Custom script to install software in MS Windows 10&#43;
-- [LeandroLS/ms-unbloater](https://github.com/LeandroLS/ms-unbloater) - Custom script to remove software in MS Windows
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/nuxt-site-example](https://github.com/LeandroLS/nuxt-site-example) (today)
 - [LeandroLS/cardapio-publico](https://github.com/LeandroLS/cardapio-publico) (2 weeks ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (2 weeks ago)
-- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (1 month ago)
