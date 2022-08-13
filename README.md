@@ -15,12 +15,12 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [typo](https://github.com/MarcoWorms/slaymoji/pull/2) on [MarcoWorms/slaymoji](https://github.com/MarcoWorms/slaymoji) (2 weeks ago)
+- [typo](https://github.com/MarcoWorms/slaymoji/pull/2) on [MarcoWorms/slaymoji](https://github.com/MarcoWorms/slaymoji) (3 weeks ago)
 - [Refactor to use TypeScript](https://github.com/LeandroLS/SnakeGame/pull/2) on [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (1 month ago)
 - [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (4 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/nuxt-site-example](https://github.com/LeandroLS/nuxt-site-example) (1 day ago)
+- [LeandroLS/nuxt-site-example](https://github.com/LeandroLS/nuxt-site-example) (2 days ago)
 - [LeandroLS/cardapio-publico](https://github.com/LeandroLS/cardapio-publico) (2 weeks ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (3 weeks ago)
