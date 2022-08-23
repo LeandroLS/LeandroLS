@@ -22,5 +22,5 @@ I love to learn!
 #### :construction_worker: My Latest Contributions
 
 - [LeandroLS/nuxt-site-example](https://github.com/LeandroLS/nuxt-site-example) (1 week ago)
-- [LeandroLS/cardapio-publico](https://github.com/LeandroLS/cardapio-publico) (3 weeks ago)
+- [LeandroLS/cardapio-publico](https://github.com/LeandroLS/cardapio-publico) (4 weeks ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 month ago)
