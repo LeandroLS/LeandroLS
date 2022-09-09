@@ -17,10 +17,10 @@ I love to learn!
 
 - [typo](https://github.com/MarcoWorms/slaymoji/pull/2) on [MarcoWorms/slaymoji](https://github.com/MarcoWorms/slaymoji) (1 month ago)
 - [Refactor to use TypeScript](https://github.com/LeandroLS/SnakeGame/pull/2) on [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (2 months ago)
-- [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (4 months ago)
+- [Update pt_br.ts](https://github.com/tutao/tutanota/pull/4040) on [tutao/tutanota](https://github.com/tutao/tutanota) (5 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/menu-serverless](https://github.com/LeandroLS/menu-serverless) (2 days ago)
-- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (3 days ago)
+- [LeandroLS/menu-serverless](https://github.com/LeandroLS/menu-serverless) (3 days ago)
+- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (4 days ago)
 - [LeandroLS/nuxt-site-example](https://github.com/LeandroLS/nuxt-site-example) (4 weeks ago)
