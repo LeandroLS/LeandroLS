@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/menu-serverless](https://github.com/LeandroLS/menu-serverless) (5 days ago)
-- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (6 days ago)
+- [LeandroLS/menu-serverless](https://github.com/LeandroLS/menu-serverless) (6 days ago)
+- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (1 week ago)
 - [LeandroLS/nuxt-site-example](https://github.com/LeandroLS/nuxt-site-example) (1 month ago)
