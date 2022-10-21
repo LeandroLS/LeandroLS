@@ -16,11 +16,11 @@ I love to learn!
 #### 🔨 Latest Pull Requests I published
 
 - [Update 2019-08-02-aws-secrets-management.md](https://github.com/serverless/blog/pull/1041) on [serverless/blog](https://github.com/serverless/blog) (1 month ago)
-- [typo](https://github.com/MarcoWorms/slaymoji/pull/2) on [MarcoWorms/slaymoji](https://github.com/MarcoWorms/slaymoji) (2 months ago)
+- [typo](https://github.com/MarcoWorms/slaymoji/pull/2) on [MarcoWorms/slaymoji](https://github.com/MarcoWorms/slaymoji) (3 months ago)
 - [Refactor to use TypeScript](https://github.com/LeandroLS/SnakeGame/pull/2) on [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (3 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (6 days ago)
+- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 week ago)
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (1 month ago)
 - [LeandroLS/cardapio-publico](https://github.com/LeandroLS/cardapio-publico) (2 months ago)
