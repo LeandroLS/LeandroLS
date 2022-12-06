@@ -17,7 +17,7 @@ I love to learn!
 
 - [Update 2019-08-02-aws-secrets-management.md](https://github.com/serverless/blog/pull/1041) on [serverless/blog](https://github.com/serverless/blog) (2 months ago)
 - [typo](https://github.com/MarcoWorms/slaymoji/pull/2) on [MarcoWorms/slaymoji](https://github.com/MarcoWorms/slaymoji) (4 months ago)
-- [Refactor to use TypeScript](https://github.com/LeandroLS/SnakeGame/pull/2) on [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (4 months ago)
+- [Refactor to use TypeScript](https://github.com/LeandroLS/SnakeGame/pull/2) on [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (5 months ago)
 
 #### :construction_worker: My Latest Contributions
 
