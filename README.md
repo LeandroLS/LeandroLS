@@ -22,5 +22,5 @@ I love to learn!
 #### :construction_worker: My Latest Contributions
 
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (2 weeks ago)
-- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (4 weeks ago)
+- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 month ago)
 - [LeandroLS/dlogstail](https://github.com/LeandroLS/dlogstail) (1 month ago)
