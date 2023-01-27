@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (today)
+- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (1 day ago)
 - [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) (1 month ago)
 - [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 month ago)
