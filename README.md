@@ -15,7 +15,7 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update 2019-08-02-aws-secrets-management.md](https://github.com/serverless/blog/pull/1041) on [serverless/blog](https://github.com/serverless/blog) (6 months ago)
+- [Update 2019-08-02-aws-secrets-management.md](https://github.com/serverless/blog/pull/1041) on [serverless/blog](https://github.com/serverless/blog) (7 months ago)
 - [typo](https://github.com/MarcoWorms/slaymoji/pull/2) on [MarcoWorms/slaymoji](https://github.com/MarcoWorms/slaymoji) (8 months ago)
 - [Refactor to use TypeScript](https://github.com/LeandroLS/SnakeGame/pull/2) on [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (9 months ago)
 
