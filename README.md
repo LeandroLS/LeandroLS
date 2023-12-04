@@ -23,4 +23,4 @@ I love to learn!
 
 - [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts) (1 month ago)
 - [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (10 months ago)
-- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (11 months ago)
+- [LeandroLS/rick-portal-gun](https://github.com/LeandroLS/rick-portal-gun) (1 year ago)
