@@ -22,4 +22,4 @@ I love to learn!
 #### :construction_worker: My Latest Contributions
 
 - [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts) (2 months ago)
-- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (10 months ago)
+- [LeandroLS/SnakeGame](https://github.com/LeandroLS/SnakeGame) (11 months ago)
