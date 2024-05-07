@@ -21,4 +21,4 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts) (6 months ago)
+- [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts) (7 months ago)
