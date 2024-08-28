@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/MagicVilla_VillaAPI](https://github.com/LeandroLS/MagicVilla_VillaAPI)
 - [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts)
 - [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) - Some algorithms write in Go
-- [LeandroLS/ms-bloater](https://github.com/LeandroLS/ms-bloater) - Custom script to install software in MS Windows 10&#43;
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,4 +21,5 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/MagicVilla_VillaAPI](https://github.com/LeandroLS/MagicVilla_VillaAPI) (today)
 - [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts) (10 months ago)
