@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator)
 - [LeandroLS/Mango](https://github.com/LeandroLS/Mango)
 - [LeandroLS/MagicVilla_VillaAPI](https://github.com/LeandroLS/MagicVilla_VillaAPI)
-- [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator) (today)
 - [LeandroLS/Mango](https://github.com/LeandroLS/Mango) (1 day ago)
 - [LeandroLS/MagicVilla_VillaAPI](https://github.com/LeandroLS/MagicVilla_VillaAPI) (3 weeks ago)
-- [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts) (11 months ago)
