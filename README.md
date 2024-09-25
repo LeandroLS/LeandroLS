@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator) (today)
 - [LeandroLS/Mango](https://github.com/LeandroLS/Mango) (1 day ago)
+- [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator) (1 day ago)
 - [LeandroLS/MagicVilla_VillaAPI](https://github.com/LeandroLS/MagicVilla_VillaAPI) (3 weeks ago)
