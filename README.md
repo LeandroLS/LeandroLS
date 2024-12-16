@@ -10,8 +10,8 @@ I love to learn!
 
 #### 👨‍💻 Repositories I created recently
 - [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator)
-- [LeandroLS/Mango](https://github.com/LeandroLS/Mango)
-- [LeandroLS/MagicVilla_VillaAPI](https://github.com/LeandroLS/MagicVilla_VillaAPI)
+- [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts)
+- [LeandroLS/understanding-algorithms](https://github.com/LeandroLS/understanding-algorithms) - Some algorithms write in Go
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/Mango](https://github.com/LeandroLS/Mango) (2 months ago)
+- [LeandroLS-archived/Mango](https://github.com/LeandroLS-archived/Mango) (2 months ago)
 - [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator) (2 months ago)
-- [LeandroLS/MagicVilla_VillaAPI](https://github.com/LeandroLS/MagicVilla_VillaAPI) (3 months ago)
+- [LeandroLS-archived/MagicVilla_VillaAPI](https://github.com/LeandroLS-archived/MagicVilla_VillaAPI) (3 months ago)
