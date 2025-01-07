@@ -15,9 +15,9 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
+- [adds `Linting` Github action](https://github.com/LeandroLS/clone-tabnews/pull/16) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (today)
 - [add automated tests](https://github.com/LeandroLS/clone-tabnews/pull/15) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (today)
 - [makes](https://github.com/LeandroLS/clone-tabnews/pull/14) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 days ago)
-- [adds  script](https://github.com/LeandroLS/clone-tabnews/pull/13) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 days ago)
 
 #### :construction_worker: My Latest Contributions
 
