@@ -15,12 +15,12 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [adds `Linting` Github action](https://github.com/LeandroLS/clone-tabnews/pull/16) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (today)
-- [add automated tests](https://github.com/LeandroLS/clone-tabnews/pull/15) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (today)
-- [makes](https://github.com/LeandroLS/clone-tabnews/pull/14) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 days ago)
+- [Lint quality actions](https://github.com/LeandroLS/clone-tabnews/pull/17) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
+- [adds `Linting` Github action](https://github.com/LeandroLS/clone-tabnews/pull/16) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
+- [add automated tests](https://github.com/LeandroLS/clone-tabnews/pull/15) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (today)
+- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
 - [LeandroLS-archived/Mango](https://github.com/LeandroLS-archived/Mango) (3 months ago)
 - [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator) (3 months ago)
