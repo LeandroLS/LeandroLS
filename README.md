@@ -15,12 +15,12 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: create `LICENSE` file](https://github.com/LeandroLS/clone-tabnews/pull/20) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (today)
 - [Hooks](https://github.com/LeandroLS/clone-tabnews/pull/19) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
 - [Lint commits](https://github.com/LeandroLS/clone-tabnews/pull/18) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
-- [Lint quality actions](https://github.com/LeandroLS/clone-tabnews/pull/17) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (5 days ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
+- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (today)
 - [LeandroLS-archived/Mango](https://github.com/LeandroLS-archived/Mango) (3 months ago)
 - [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator) (3 months ago)
