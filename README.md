@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts)
 - [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews)
 - [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator)
-- [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts) (today)
+- [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts) (today)
 - [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 days ago)
-- [LeandroLS-archived/Mango](https://github.com/LeandroLS-archived/Mango) (3 months ago)
-- [LeandroLS/VanityBTCAddressGenerator](https://github.com/LeandroLS/VanityBTCAddressGenerator) (3 months ago)
