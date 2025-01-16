@@ -15,12 +15,12 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Maintenance](https://github.com/LeandroLS/clone-tabnews/pull/21) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
-- [docs: create `LICENSE` file](https://github.com/LeandroLS/clone-tabnews/pull/20) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 days ago)
-- [Hooks](https://github.com/LeandroLS/clone-tabnews/pull/19) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (4 days ago)
+- [Maintenance](https://github.com/LeandroLS/clone-tabnews/pull/21) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 days ago)
+- [docs: create `LICENSE` file](https://github.com/LeandroLS/clone-tabnews/pull/20) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (4 days ago)
+- [Hooks](https://github.com/LeandroLS/clone-tabnews/pull/19) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (5 days ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts) (1 day ago)
-- [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts) (1 day ago)
-- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 days ago)
+- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
+- [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts) (2 days ago)
+- [LeandroLS/bitburner-scripts](https://github.com/LeandroLS/bitburner-scripts) (2 days ago)
