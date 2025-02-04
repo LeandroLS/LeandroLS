@@ -15,7 +15,7 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Maintenance](https://github.com/LeandroLS/clone-tabnews/pull/21) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 weeks ago)
+- [Maintenance](https://github.com/LeandroLS/clone-tabnews/pull/21) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 weeks ago)
 - [docs: create `LICENSE` file](https://github.com/LeandroLS/clone-tabnews/pull/20) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 weeks ago)
 - [Hooks](https://github.com/LeandroLS/clone-tabnews/pull/19) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 weeks ago)
 
@@ -23,4 +23,4 @@ I love to learn!
 
 - [LeandroLS/SelectionSortVisualization](https://github.com/LeandroLS/SelectionSortVisualization) (2 weeks ago)
 - [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 weeks ago)
-- [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts) (2 weeks ago)
+- [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts) (3 weeks ago)
