@@ -17,7 +17,7 @@ I love to learn!
 
 - [Maintenance](https://github.com/LeandroLS/clone-tabnews/pull/21) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 month ago)
 - [docs: create `LICENSE` file](https://github.com/LeandroLS/clone-tabnews/pull/20) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 month ago)
-- [Hooks](https://github.com/LeandroLS/clone-tabnews/pull/19) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 month ago)
+- [Hooks](https://github.com/LeandroLS/clone-tabnews/pull/19) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 months ago)
 
 #### :construction_worker: My Latest Contributions
 
