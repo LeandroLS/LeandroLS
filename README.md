@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/SelectionSortVisualization](https://github.com/LeandroLS/SelectionSortVisualization) (1 month ago)
+- [LeandroLS/SelectionSortVisualization](https://github.com/LeandroLS/SelectionSortVisualization) (2 months ago)
 - [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 months ago)
 - [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts) (2 months ago)
