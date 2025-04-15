@@ -15,12 +15,12 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update database.mdx](https://github.com/EvolutionAPI/docs-evolution/pull/14) on [EvolutionAPI/docs-evolution](https://github.com/EvolutionAPI/docs-evolution) (today)
+- [Update database.mdx](https://github.com/EvolutionAPI/docs-evolution/pull/14) on [EvolutionAPI/docs-evolution](https://github.com/EvolutionAPI/docs-evolution) (1 day ago)
 - [Maintenance](https://github.com/LeandroLS/clone-tabnews/pull/21) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 months ago)
 - [docs: create `LICENSE` file](https://github.com/LeandroLS/clone-tabnews/pull/20) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 months ago)
 
 #### :construction_worker: My Latest Contributions
 
 - [LeandroLS/SelectionSortVisualization](https://github.com/LeandroLS/SelectionSortVisualization) (2 months ago)
-- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 months ago)
+- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 months ago)
 - [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts) (3 months ago)
