@@ -15,9 +15,9 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update database.mdx](https://github.com/EvolutionAPI/docs-evolution/pull/14) on [EvolutionAPI/docs-evolution](https://github.com/EvolutionAPI/docs-evolution) (1 week ago)
+- [build: dia 37 Um novo jeito de aprender React, concluído](https://github.com/LeandroLS/clone-tabnews/pull/29) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 day ago)
+- [Update database.mdx](https://github.com/EvolutionAPI/docs-evolution/pull/14) on [EvolutionAPI/docs-evolution](https://github.com/EvolutionAPI/docs-evolution) (2 weeks ago)
 - [Maintenance](https://github.com/LeandroLS/clone-tabnews/pull/21) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 months ago)
-- [docs: create `LICENSE` file](https://github.com/LeandroLS/clone-tabnews/pull/20) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 months ago)
 
 #### :construction_worker: My Latest Contributions
 
