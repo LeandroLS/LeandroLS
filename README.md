@@ -15,12 +15,12 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [build: dia 37 Um novo jeito de aprender React, concluído](https://github.com/LeandroLS/clone-tabnews/pull/29) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (4 days ago)
+- [fix: show DatabaseStatus loading message correctly](https://github.com/LeandroLS/clone-tabnews/pull/30) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (today)
+- [Adiciona versão inicial da página `status`](https://github.com/LeandroLS/clone-tabnews/pull/29) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (4 days ago)
 - [Update database.mdx](https://github.com/EvolutionAPI/docs-evolution/pull/14) on [EvolutionAPI/docs-evolution](https://github.com/EvolutionAPI/docs-evolution) (2 weeks ago)
-- [Maintenance](https://github.com/LeandroLS/clone-tabnews/pull/21) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 months ago)
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (today)
 - [LeandroLS/SelectionSortVisualization](https://github.com/LeandroLS/SelectionSortVisualization) (3 months ago)
-- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 months ago)
 - [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts) (3 months ago)
