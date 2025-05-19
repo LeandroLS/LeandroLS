@@ -15,7 +15,7 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/32) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (5 days ago)
+- [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/32) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (6 days ago)
 - [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/31) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 weeks ago)
 - [fix: show DatabaseStatus loading message correctly](https://github.com/LeandroLS/clone-tabnews/pull/30) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 weeks ago)
 
