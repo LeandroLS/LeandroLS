@@ -16,11 +16,11 @@ I love to learn!
 #### 🔨 Latest Pull Requests I published
 
 - [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/32) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 month ago)
-- [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/31) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 month ago)
+- [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/31) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 months ago)
 - [fix: show DatabaseStatus loading message correctly](https://github.com/LeandroLS/clone-tabnews/pull/30) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 month ago)
+- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 months ago)
 - [EvolutionAPI/docs-evolution](https://github.com/EvolutionAPI/docs-evolution) (2 months ago)
 - [LeandroLS/SelectionSortVisualization](https://github.com/LeandroLS/SelectionSortVisualization) (5 months ago)
