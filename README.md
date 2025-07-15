@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/docker-waiter](https://github.com/LeandroLS/docker-waiter) - Docker MCP Server
 - [LeandroLS/SelectionSortVisualization](https://github.com/LeandroLS/SelectionSortVisualization) - Selection Sort Algorithm Visualization
 - [LeandroLS/shellscripts](https://github.com/LeandroLS/shellscripts)
-- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/docker-waiter](https://github.com/LeandroLS/docker-waiter) (1 day ago)
 - [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 months ago)
 - [EvolutionAPI/docs-evolution](https://github.com/EvolutionAPI/docs-evolution) (3 months ago)
-- [LeandroLS/SelectionSortVisualization](https://github.com/LeandroLS/SelectionSortVisualization) (5 months ago)
