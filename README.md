@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (today)
+- [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (1 day ago)
 - [LeandroLS/docker-waiter](https://github.com/LeandroLS/docker-waiter) (1 week ago)
 - [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 months ago)
