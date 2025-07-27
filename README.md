@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025)
 - [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code)
 - [LeandroLS/docker-waiter](https://github.com/LeandroLS/docker-waiter) - Docker MCP Server
-- [LeandroLS/SelectionSortVisualization](https://github.com/LeandroLS/SelectionSortVisualization) - Selection Sort Algorithm Visualization
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (1 day ago)
+- [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (1 day ago)
+- [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (2 days ago)
 - [LeandroLS/docker-waiter](https://github.com/LeandroLS/docker-waiter) (1 week ago)
-- [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (2 months ago)
