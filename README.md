@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (1 day ago)
-- [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (2 days ago)
-- [LeandroLS/docker-waiter](https://github.com/LeandroLS/docker-waiter) (1 week ago)
+- [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (2 days ago)
+- [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (3 days ago)
+- [LeandroLS/docker-waiter](https://github.com/LeandroLS/docker-waiter) (2 weeks ago)
