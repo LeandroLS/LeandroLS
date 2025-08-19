@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/graphql-crash-course](https://github.com/LeandroLS/graphql-crash-course) (today)
-- [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (1 week ago)
+- [LeandroLS/graphql-crash-course](https://github.com/LeandroLS/graphql-crash-course) (1 day ago)
+- [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (2 weeks ago)
 - [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (2 weeks ago)
