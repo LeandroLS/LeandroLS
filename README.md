@@ -15,12 +15,12 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Switching to postgres](https://github.com/LeandroLS/rinha-backend-2025/pull/1) on [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (4 weeks ago)
+- [Switching to postgres](https://github.com/LeandroLS/rinha-backend-2025/pull/1) on [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (1 month ago)
 - [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/32) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 months ago)
-- [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/31) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (3 months ago)
+- [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/31) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (4 months ago)
 
 #### :construction_worker: My Latest Contributions
 
-- [LeandroLS/graphql-crash-course](https://github.com/LeandroLS/graphql-crash-course) (1 week ago)
+- [LeandroLS/graphql-crash-course](https://github.com/LeandroLS/graphql-crash-course) (2 weeks ago)
 - [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (3 weeks ago)
 - [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (1 month ago)
