@@ -23,4 +23,4 @@ I love to learn!
 
 - [LeandroLS/graphql-crash-course](https://github.com/LeandroLS/graphql-crash-course) (5 months ago)
 - [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (5 months ago)
-- [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (5 months ago)
+- [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (6 months ago)
