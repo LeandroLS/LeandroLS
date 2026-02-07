@@ -16,7 +16,7 @@ I love to learn!
 #### 🔨 Latest Pull Requests I published
 
 - [Switching to postgres](https://github.com/LeandroLS/rinha-backend-2025/pull/1) on [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (6 months ago)
-- [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/32) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (8 months ago)
+- [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/32) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (9 months ago)
 - [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/31) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (9 months ago)
 
 #### :construction_worker: My Latest Contributions
