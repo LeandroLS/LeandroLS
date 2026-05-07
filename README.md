@@ -9,9 +9,9 @@ I've been working as Backend Developer since 2017.
 I love to learn!  
 
 #### 👨‍💻 Repositories I created recently
+- [LeandroLS/rinha-backend-2026](https://github.com/LeandroLS/rinha-backend-2026)
 - [LeandroLS/graphql-crash-course](https://github.com/LeandroLS/graphql-crash-course)
 - [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025)
-- [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code)
 
 #### 🔨 Latest Pull Requests I published
 
@@ -21,6 +21,6 @@ I love to learn!
 
 #### :construction_worker: My Latest Contributions
 
+- [LeandroLS/rinha-backend-2026](https://github.com/LeandroLS/rinha-backend-2026) (1 day ago)
 - [LeandroLS/graphql-crash-course](https://github.com/LeandroLS/graphql-crash-course) (8 months ago)
 - [LeandroLS/advent-of-code](https://github.com/LeandroLS/advent-of-code) (9 months ago)
-- [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (9 months ago)
