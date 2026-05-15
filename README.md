@@ -15,7 +15,7 @@ I love to learn!
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add LeandroLS participant information](https://github.com/zanfranceschi/rinha-de-backend-2026/pull/2108) on [zanfranceschi/rinha-de-backend-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) (6 days ago)
+- [Add LeandroLS participant information](https://github.com/zanfranceschi/rinha-de-backend-2026/pull/2108) on [zanfranceschi/rinha-de-backend-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) (1 week ago)
 - [Switching to postgres](https://github.com/LeandroLS/rinha-backend-2025/pull/1) on [LeandroLS/rinha-backend-2025](https://github.com/LeandroLS/rinha-backend-2025) (9 months ago)
 - [Custom errors](https://github.com/LeandroLS/clone-tabnews/pull/32) on [LeandroLS/clone-tabnews](https://github.com/LeandroLS/clone-tabnews) (1 year ago)
 
@@ -23,4 +23,4 @@ I love to learn!
 
 - [LeandroLS/rinha-backend-2026](https://github.com/LeandroLS/rinha-backend-2026) (1 week ago)
 - [zanfranceschi/rinha-de-backend-2026](https://github.com/zanfranceschi/rinha-de-backend-2026) (1 week ago)
-- [LeandroLS/graphql-crash-course](https://github.com/LeandroLS/graphql-crash-course) (8 months ago)
+- [LeandroLS/graphql-crash-course](https://github.com/LeandroLS/graphql-crash-course) (9 months ago)
